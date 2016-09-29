@@ -1,0 +1,38 @@
+context:
+  colors: [{
+    "name": "$red-lt",
+    "hex": "C7604C"
+  },{
+    "name": "$aqua-drk",
+    "hex": "4E917A"
+  },{
+    "name": "$gray",
+    "hex": "5F6062"
+  },{
+    "name": "$gray-lt",
+    "hex": "DCDCD6"
+  },{
+    "name": "$drk-brwn",
+    "hex": "38332c"
+  },{
+    "name": "$med-brwn",
+    "hex": "7b6e5b"
+  },{
+    "name": "$med-brwn-lt",
+    "hex": "958b79"
+  },{
+    "name": "$creme",
+    "hex": "f9f3e8",
+  },{
+    "name": "$creme-1",
+    "hex": "f2ebdd"
+  },{
+    "name": "$creme-2",
+    "hex": "e8e2d4"
+  },{
+    "name": "$red",
+    "hex": "844013"
+  },{
+    "name": "$gold",
+    "hex": "c49f5f"
+  }]
